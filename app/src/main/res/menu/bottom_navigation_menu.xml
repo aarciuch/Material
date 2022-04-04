@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/jedenFragment"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="jeden"/>
+    <item
+        android:id="@+id/dwaFragment"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="dwa"/>
+    <item
+        android:id="@+id/trzyFragment2"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="trzy"/>
+</menu>
